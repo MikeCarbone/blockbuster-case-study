@@ -67,7 +67,7 @@ export default function Home() {
     <>
       <Global />
       <Head>
-        <title>Create Next App</title>
+        <title>Case Study - Blockbuster Design System</title>
         <link rel="icon" href="/favicon.ico" />
         <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;700&family=Roboto:wght@100;300;400&display=swap" rel="stylesheet" />
       </Head>
