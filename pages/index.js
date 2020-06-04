@@ -94,7 +94,7 @@ export default function Home() {
             <VertSpace size={2} />
             <Heading>Goals</Heading>
             <Copy>
-              Beginning this design system, we wanted to bring Blockbuster back from the dead and into the modern world with a fresh design system.
+              We decided it was time to bring Blockbuster back from the dead and into the modern world with a fresh design system.
               The goals for this project included a reusable component system, <TextLink href="https://blockbuster-ds-docs.now.sh/">documentation</TextLink>, and three products showing off the capabilities of that design system.
               We also slapped a new logo on it to pull the whole thing into 2020.
             </Copy>
